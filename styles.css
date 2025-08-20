@@ -712,22 +712,17 @@ header {
 }
 
 .sec20 {
-  background: #043873;
-  color: white;
-  display: flex;
-  background: #043873;
-  list-style: none;
-  display: flex;
-  color: white;
+ background: #043873;
+ color: white;
+ display: flex;
+ list-style: none;
 }
 
 .item20 {
-  margin-left: 160px;
-  margin-top: 75px;
-  margin-bottom: 45px;
-  vertical-align: top;
-  margin-left: 160px;
-  margin-bottom: 95px;
+ margin-left: 160px;
+ margin-top: 75px;
+ vertical-align: top;
+ margin-bottom: 95px;
 }
 
 .item20 h1 {
@@ -809,9 +804,7 @@ footer nav {
   display: flex;
 }
 
-.s1,
-.s2,
-.s3 {
-  margin-right: 14px;
-  margin-left: 10px;
+.s1,.s2,.s3 {
+ margin-right: 14px;
+ margin-left: 10px;
 }
